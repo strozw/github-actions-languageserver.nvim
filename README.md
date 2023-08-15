@@ -1,3 +1,12 @@
+# github-actions-languageserver.nvim
+
+`github-actions-languageserver.nvim` is add github-actions-languageserver setup config into lspconfig.
+
+## Requirements
+
+- Node.js >= 16.x
+- [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+
 ## Installing
 
 ### with lazy.nvim
@@ -21,3 +30,8 @@ lspconfig.github_actions.setup({
   }
 })
 ```
+
+## Credits
+
+- [@actions/languageserver](https://github.com/actions/languageservices/tree/main/languageserver)
+- [GitHub Actions for VS Code](https://github.com/github/vscode-github-actions)
