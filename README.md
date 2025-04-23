@@ -1,5 +1,8 @@
 # github-actions-languageserver.nvim
 
+> [!WARNING]
+> This repository has been archived because support using [gh-actions-language-server with nvim-lspconfig](https://github.com/neovim/nvim-lspconfig/blob/master/lsp/gh_actions_ls.lua) has been implemented.
+
 `github-actions-languageserver.nvim` is add github-actions-languageserver setup config into lspconfig.
 
 ## Requirements
